@@ -23,11 +23,6 @@ void* ptr = allocator.allocate(); // Allocate a 64-byte block
 allocator.deallocate(ptr);        // Free the block
 ```
 
-## TODO
-- Add memory alignment support for SIMD/cache optimization.
-- Improve performance with free block caching.
-- Enhance multi-threaded contention handling.
-
 
 
 
