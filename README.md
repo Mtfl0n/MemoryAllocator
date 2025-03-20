@@ -27,3 +27,13 @@ allocator.deallocate(ptr);        // Free the block
 - Add memory alignment support for SIMD/cache optimization.
 - Improve performance with free block caching.
 - Enhance multi-threaded contention handling.
+
+
+
+
+
+
+///
+
+
+yes, I know that this is piece of shit, I did this in order to better understand how RAM works =)
